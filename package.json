@@ -1,0 +1,22 @@
+{
+  "name": "fourier-drawing",
+  "version": "1.0.0",
+  "description": "Draw anything with the Fourier transform and a bunch of circles",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Hanover",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ehanover/fourier-drawing.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cardinal-spline-js": "^2.3.10",
+    "mathjs": "^7.0.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
