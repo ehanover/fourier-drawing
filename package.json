@@ -16,7 +16,7 @@
   "dependencies": {
     "cardinal-spline-js": "^2.3.10",
     "mathjs": "^7.0.1",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
